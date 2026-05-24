@@ -36,14 +36,13 @@
 ├── README.md
 ├── src/                    #  .py 文件
 │   ├── data_preprocess.py
-│   ├── mpi_calculation.py
-│   ├── weight_calculation.py
-│   ├── allocation_model.py
-│   └── evaluation.py
+│   ├── ahp_calculation.py
+│   ├── entropy_weight.py
+│   ├── allocation_plan.py
+│   ├── model_evaluation_comparison.py
+│   └── parameter_sensitivity_analysis.py
 ├── docs/                   # 放论文
-│   └── 建模比赛.pdf
-├── results/                # 可以放运行后生成的表格、图片（可选）
-└── requirements.txt        # 依赖列表（可选）
+     └── 建模比赛.pdf
 
 
 ---
