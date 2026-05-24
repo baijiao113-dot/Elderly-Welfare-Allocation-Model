@@ -32,6 +32,18 @@
 - **条件约束**：改进最大余额法
 
 ---
+## 📁 项目结构
+├── README.md
+├── src/                    #  .py 文件
+│   ├── data_preprocess.py
+│   ├── mpi_calculation.py
+│   ├── weight_calculation.py
+│   ├── allocation_model.py
+│   └── evaluation.py
+├── docs/                   # 放论文
+│   └── 建模比赛.pdf
+├── results/                # 可以放运行后生成的表格、图片（可选）
+└── requirements.txt        # 依赖列表（可选）
 
 
 ---
